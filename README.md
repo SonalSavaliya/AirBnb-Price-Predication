@@ -8,11 +8,12 @@ Linear Regression and Random Forest Regression were used to predict the price.
 ### Data Cleaning
 
 Removed some columns which had greater than 30% missing values or didn't have meaningful insight
+
 Set dummie varible for NYC boroughs, room type and property type as they have multiple categories
 
 ### Exploratory Data Analysis
 
-I asked a few questions for exploratory analysis which are the following:
+I asked a few questions for exploratory analysis which were the following:
 
 What is the price per borough? and I found Manhattan has a maximum price for Airbnb rental and then, Brooklyn, Queens, Staten Island, and the Bronx have rental pricing in decreasing order.
 
